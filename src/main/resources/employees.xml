@@ -1,0 +1,42 @@
+<employees>
+    <employee>
+        <empId>1</empId>
+        <empName>Surya</empName>
+        <designation>Software Developer</designation>
+        <department>ADM</department>
+        <gender>Male</gender>
+        <mobileNo>9876543210</mobileNo>
+    </employee>
+    <employee>
+        <empId>2</empId>
+        <empName>Dinesh</empName>
+        <designation>Software Developer</designation>
+        <department>ADM</department>
+        <gender>Male</gender>
+        <mobileNo>9876546750</mobileNo>
+    </employee>
+    <employee>
+        <empId>3</empId>
+        <empName>Asshwanth</empName>
+        <designation>Solution Analyst</designation>
+        <department>JOFFO</department>
+        <gender>Male</gender>
+        <mobileNo>9874593210</mobileNo>
+    </employee>
+    <employee>
+        <empId>4</empId>
+        <empName>Ragul</empName>
+        <designation>Senior Testing</designation>
+        <department>ADM</department>
+        <gender>Male</gender>
+        <mobileNo>9876543210</mobileNo>
+    </employee>
+    <employee>
+        <empId>5</empId>
+        <empName>Kevin</empName>
+        <designation>Business unit Head</designation>
+        <department>BU1</department>
+        <gender>Male</gender>
+        <mobileNo>9876098210</mobileNo>
+    </employee>
+</employees>
